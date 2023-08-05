@@ -1,0 +1,19 @@
+{ 
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "material-icon-theme",
+    "code-runner.runInTerminal": true,
+    "workbench.colorCustomizations": {},
+    "editor.mouseWheelZoom": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "git.openRepositoryInParentFolders": "always",
+    "explorer.confirmDelete": false,
+    "editor.minimap.scale": 2,
+    "editor.minimap.autohide": true,
+    "editor.minimap.renderCharacters": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "json.schemas": [
+
+    ]
+}
