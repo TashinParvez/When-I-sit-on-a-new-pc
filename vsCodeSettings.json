@@ -1,19 +1,61 @@
-{ 
-    "workbench.colorTheme": "Default Dark Modern",
-    "workbench.iconTheme": "material-icon-theme",
-    "code-runner.runInTerminal": true,
-    "workbench.colorCustomizations": {},
-    "editor.mouseWheelZoom": true,
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 100,
-    "git.openRepositoryInParentFolders": "always",
-    "explorer.confirmDelete": false,
-    "editor.minimap.scale": 2,
-    "editor.minimap.autohide": true,
-    "editor.minimap.renderCharacters": false,
-    "terminal.integrated.enableMultiLinePasteWarning": false,
-    "security.workspace.trust.untrustedFiles": "open",
-    "json.schemas": [
-
-    ]
+{
+  "workbench.iconTheme": "vscode-icons",
+  "code-runner.runInTerminal": true,
+  "workbench.colorCustomizations": {},
+  "editor.mouseWheelZoom": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10,
+  "git.openRepositoryInParentFolders": "always",
+  "explorer.confirmDelete": false,
+  "editor.minimap.renderCharacters": false,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "json.schemas": [],
+  "explorer.confirmDragAndDrop": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "projectManager.sortList": "Saved",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": true,
+  "editor.formatOnSave": true,
+  "code-runner.clearPreviousOutput": true,
+  "window.zoomLevel": 1,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "auto-rename-tag.activationOnLanguage": [
+    "*"
+  ],
+  "files.associations": {
+    "*html": "html"
+  },
+  // "emmet.triggerExpansionOnTab": true,
+  // "emmet.useInlineCompletions": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "css.styleSheets": [
+    "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css",
+    "src/**/*.css"
+  ],
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cph.general.defaultLanguage": "cpp",
+  "editor.fontFamily": "monospace, 'iosevka term', 'Source Serif 4' ,Consolas,'cascadia code', 'Courier New'",
+  "editor.fontLigatures": false,
+  "workbench.startupEditor": "none",
+  "workbench.editorAssociations": {
+    "*.lnk": "default"
+  },
+  "editor.scrollbar.verticalScrollbarSize": 10,
+  "editor.minimap.size": "fit",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
 }
