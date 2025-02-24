@@ -1,3 +1,4 @@
+// just paste this on [setting -> Keyboard Shourcuts -> top right (click: open keyboard shortcuts icon) then paste this whole code]
 // Place your key bindings in this file to override the defaultsauto[]
 [
     {
@@ -135,5 +136,9 @@
         "key": "shift+alt+i",
         "command": "-editor.action.insertCursorAtEndOfEachLineSelected",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+j",
+        "command": "editor.action.joinLines"
     }
 ]
