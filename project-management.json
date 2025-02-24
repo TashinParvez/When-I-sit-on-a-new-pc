@@ -1,0 +1,163 @@
+[
+	{
+		"name": "CP",
+		"rootPath": "d:\\Competitive_Programming_Journey",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "CP Topics",
+		"rootPath": "d:\\Competitive_Programming_Journey\\CP_Topics",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Cf2",
+		"rootPath": "d:\\Competitive_Programming_Journey\\Codeforces_Solutions\\CF2",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Codeforces",
+		"rootPath": "d:\\Competitive_Programming_Journey\\Codeforces_Solutions",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "CodeChef",
+		"rootPath": "d:\\Competitive_Programming_Journey\\Codechef-Solutions",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "LeetCode",
+		"rootPath": "d:\\Competitive_Programming_Journey\\Leetcode-Solutions",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Coding-Ninjas",
+		"rootPath": "d:\\Competitive_Programming_Journey\\Coding_Ninjas_Solutions",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Geeks-for-Geeks (GFG)",
+		"rootPath": "d:\\Competitive_Programming_Journey\\GeeksForGeeks-Solution",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Spoj",
+		"rootPath": "d:\\Competitive_Programming_Journey\\Spoj-Solutions",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "UVA",
+		"rootPath": "d:\\Competitive_Programming_Journey\\UVA-Solutions",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "ICPC",
+		"rootPath": "D:\\Competitive_Programming_Journey\\ICPC",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "My Template_________________",
+		"rootPath": "d:\\Competitive_Programming_Journey\\Templates of Other Coder taken from CF//TashinParvez.cpp",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Web-Programming",
+		"rootPath": "E:\\Downlodes\\STUDY\\WEB\\UIU-Web-Programming",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "DSA 1",
+		"rootPath": "e:\\Downlodes\\DSA\\DSA_1\\DSA_TOPICS",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "DSA 2",
+		"rootPath": "e:\\Downlodes\\STUDY\\DSA_2\\DSA_CODE",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Python For AI",
+		"rootPath": "e:\\Downlodes\\STUDY\\Python For AI",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Artificial-Intelligence-UIU",
+		"rootPath": "e:\\Downlodes\\STUDY\\AI Lab\\Artificial-Intelligence-UIU",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "My SQL",
+		"rootPath": "d:\\MySQL",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "PHP",
+		"rootPath": "c:\\xampp\\htdocs\\tuts",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Javascript",
+		"rootPath": "d:\\Javascript",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Kairos",
+		"rootPath": "d:\\Kairos",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Cook-Corner",
+		"rootPath": "d:\\Cook-Corner",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Espanso",
+		"rootPath": "C:\\Users\\Tashin Parvez\\AppData\\Roaming\\espanso\\match",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	}
+]
