@@ -1,5 +1,12 @@
 [
 	{
+		"name": "═══════ Coding ═══════",
+		"rootPath": " ",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
 		"name": "CP",
 		"rootPath": "d:\\Competitive_Programming_Journey",
 		"paths": [],
@@ -77,15 +84,15 @@
 		"enabled": true
 	},
 	{
-		"name": "My Template_________________",
+		"name": "My Template",
 		"rootPath": "d:\\Competitive_Programming_Journey\\Templates of Other Coder taken from CF//TashinParvez.cpp",
 		"paths": [],
 		"tags": [],
 		"enabled": true
 	},
 	{
-		"name": "Web-Programming",
-		"rootPath": "E:\\Downlodes\\STUDY\\WEB\\UIU-Web-Programming",
+		"name": "═══════ Academic ═══════",
+		"rootPath": "",
 		"paths": [],
 		"tags": [],
 		"enabled": true
@@ -119,8 +126,15 @@
 		"enabled": true
 	},
 	{
-		"name": "My SQL",
-		"rootPath": "d:\\MySQL",
+		"name": "═══════ Development ═══════",
+		"rootPath": "",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Web-Programming",
+		"rootPath": "E:\\Downlodes\\STUDY\\WEB\\UIU-Web-Programming",
 		"paths": [],
 		"tags": [],
 		"enabled": true
@@ -128,6 +142,13 @@
 	{
 		"name": "PHP",
 		"rootPath": "c:\\xampp\\htdocs\\tuts",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "My SQL",
+		"rootPath": "d:\\MySQL",
 		"paths": [],
 		"tags": [],
 		"enabled": true
@@ -149,6 +170,20 @@
 	{
 		"name": "Cook-Corner",
 		"rootPath": "d:\\Cook-Corner",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "UIU-HealthCare-Management",
+		"rootPath": "D:\\UIU-HealthCare-Management",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "═══════ Others ═══════",
+		"rootPath": " ",
 		"paths": [],
 		"tags": [],
 		"enabled": true
