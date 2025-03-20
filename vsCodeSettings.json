@@ -1,5 +1,4 @@
 {
-  "workbench.iconTheme": "vscode-icons",
   "code-runner.runInTerminal": true,
   "workbench.colorCustomizations": {},
   "editor.mouseWheelZoom": true,
@@ -18,7 +17,6 @@
   "projectManager.sortList": "Saved",
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "editor.guides.bracketPairs": true,
-  "editor.formatOnSave": true,
   "code-runner.clearPreviousOutput": true,
   "window.zoomLevel": 1,
   "liveServer.settings.donotShowInfoMsg": true,
@@ -46,16 +44,42 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "cph.general.defaultLanguage": "cpp",
-  "editor.fontFamily": "monospace, 'iosevka term', 'Source Serif 4' ,Consolas,'cascadia code', 'Courier New'",
+  "editor.fontFamily": "JetBrains Mono",
+  // "editor.fontFamily": "monospace",
+  // "editor.fontFamily": "cascadia code, monospace, 'iosevka term', 'Source Serif 4' ,Consolas, 'Courier New'",
+  "editor.fontWeight": "500",
   "editor.fontLigatures": false,
   "workbench.startupEditor": "none",
   "workbench.editorAssociations": {
-    "*.lnk": "default"
+    "*.lnk": "default",
+    "*.json": "default"
   },
   "editor.scrollbar.verticalScrollbarSize": 10,
   "editor.minimap.size": "fit",
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
-  }
+  },
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.cursorBlinking": "expand",
+  "workbench.editor.enablePreview": false,
+  "breadcrumbs.enabled": false,
+  "cSpell.userWords": [
+    "emphasising",
+    "Espanso",
+    "Flexbox",
+    "Offcanvas",
+    "Parvez",
+    "rgba",
+    "rowspan",
+    "stylesheet",
+    "Tashin",
+    "UIUCPC"
+  ],
+  "editor.fontSize": 20,
+  "markdown-preview-enhanced.previewTheme": "github-dark.css",
+  "explorer.confirmPasteNative": false,
+  "workbench.iconTheme": "helium-icon-theme"
 }
