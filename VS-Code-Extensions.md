@@ -4,8 +4,8 @@
 1. Competitive Programming Helper (cph) & its browser extension [https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl]
 2. Error Lens
 
-3. indent-rainbow
-4. Live Server
+3. Live Server
+4. indent-rainbow
 5. Prettier - Code formatter
 6. vs code-icons
 7. Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more 
