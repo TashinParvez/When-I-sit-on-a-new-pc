@@ -8,10 +8,14 @@
 4. indent-rainbow
 5. Prettier - Code formatter
 6. vs code-icons
-7. Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more 
-8. Better Comments
 9. Bracket pair colorizer
 10. Mintlify Doc Writer
 11. C/C++
-12. vscode-pdf
-13. 
+13. Auto complete Tag
+14. Auto Rename Tag
+15. Auto Close Tag
+16. Color Highlight
+17. Highlight Matching Tag
+18. IntelliSense for CSS class names in HTML
+20. 
+
