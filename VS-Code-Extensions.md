@@ -3,8 +3,8 @@
 
 3. Live Server ✅
 13. Auto complete Tag ✅
-5. Prettier - Code formatter ✅
 14. Auto Rename Tag  ✅
+5. Prettier - Code formatter
 1. Competitive Programming Helper (cph) & its browser extension [https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl]
 2. Error Lens
 15. Auto Close Tag 
