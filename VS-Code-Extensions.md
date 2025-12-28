@@ -6,7 +6,7 @@
 
 3. Live Server ✅
 4. indent-rainbow
-5. Prettier - Code formatter
+5. Prettier - Code formatter ✅
 6. vs code-icons
 9. Bracket pair colorizer
 10. Mintlify Doc Writer
@@ -15,8 +15,9 @@
 14. Auto Rename Tag  ✅
 15. Auto Close Tag  ✅
 16. Color Highlight
-17. Highlight Matching Tag
+17. Highlight Matching Tag 
 18. IntelliSense for CSS class names in HTML
 20. PHP Server ✅
-21. 
+21. HTML CSS Support 
+22. 
 
